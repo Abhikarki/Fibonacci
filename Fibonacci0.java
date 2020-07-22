@@ -7,7 +7,7 @@ public class Fibonacci0 {
 		int num2 = 1;
 		int num3;
 	   
-		 System.out.print(num1+" "+num2); //prints 0 and 1 in the beginning.
+		 System.out.print(num1+" "+num2);  //prints 0 and 1 in the beginning.
 		    
 		 for(int i = 2; i < 20; i++)    
 		 {    
