@@ -17,11 +17,11 @@ int generate(int num)
     {
         return num;
     } 
-	else if (num == 1) 
+    else if (num == 1) 
     {
         return 1;
     } 
-	else 
+    else 
     {
         //Recursion
         return (generate(num - 1) + generate(num - 2));  
